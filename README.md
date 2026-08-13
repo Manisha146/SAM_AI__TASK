@@ -1,11 +1,9 @@
-# 🚀 SAM AI Internship – Java Tasks
-
-A collection of hands-on Java tasks developed as part of the **SAM AI Internship**, focused on building a strong foundation in user interaction, logical thinking, calculations, and problem-solving.
+# 🚀 SAM AI Internship Tasks – 
+A collection of hands-on Java tasks developed as part of the **SAM AI Internship**, focused on building a strong foundation in user interaction, logical thinking, calculations, data handling, and problem-solving.
 
 
 ### 👤 1. User Input Handling
 A console-based Java task focused on taking user input and processing the entered information using the `Scanner` class.
-
 **Key Features:**
 - Accepts and processes user input
 - Uses Java `Scanner` for input handling
@@ -14,7 +12,6 @@ A console-based Java task focused on taking user input and processing the entere
 
 ### 🧠 2. Simple Logic Implementation
 A Java console-based task designed to implement basic calculations and decision-making logic based on user input.
-
 **Key Features:**
 - Performs basic mathematical calculations
 - Calculates average and related results
@@ -22,13 +19,21 @@ A Java console-based task designed to implement basic calculations and decision-
 - Generates results based on user input
 - Handles basic input and calculation errors
 
-## 🛠️ Technologies & Concepts
+### 💾 3. Data Storage
+A console-based Java application designed to store, display, add, and remove data entries using a dynamic list.
+**Key Features:**
+- Stores data using Java `ArrayList`
+- Adds and displays data entries
+- Removes entries by text or index
+- Prevents empty and duplicate entries
+- Handles invalid input and basic errors
 
+## 🛠️ Technologies & Concepts
 - **Java**
 - **IntelliJ IDEA**
 - **Git & GitHub**
 - **Scanner & User Input**
+- **ArrayList & List**
 - **Conditional Statements**
 - **Basic Calculations**
 - **Exception Handling**
-
